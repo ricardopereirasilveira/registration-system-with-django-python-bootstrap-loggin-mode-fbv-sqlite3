@@ -1,0 +1,1 @@
+2020-09-04 09:42:38.881425 INFO: visitou a sessao de ListarFuncionario

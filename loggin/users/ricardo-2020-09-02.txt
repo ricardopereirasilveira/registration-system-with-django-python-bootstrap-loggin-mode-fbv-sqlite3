@@ -1,0 +1,97 @@
+2020-09-02 08:39:41.390190 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:39:58.869274 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:00.565768 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:02.512940 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:03.285691 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:04.048838 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:52.435991 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:42:52.441978 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:43:07.852244 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:43:07.854238 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:43:08.686633 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:43:08.687630 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:43:09.583109 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:43:09.584107 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:43:10.379814 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:43:10.381815 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:43:26.222826 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:57:50.445889 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:57:50.450563 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:57:51.408373 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:57:51.414414 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:57:52.121952 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:57:52.127969 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:57:52.594128 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:57:52.599108 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 08:59:07.582249 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 08:59:07.601462 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:06:16.890111 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:06:16.896095 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:06:17.931173 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:06:17.936160 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:06:29.690292 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:06:29.695278 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:06:30.639204 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:06:30.644163 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:41:15.320277 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:41:15.326261 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:42:10.853176 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:42:10.859186 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 09:42:34.859001 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 09:42:34.859998 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:50:24.189850 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:50:24.212790 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:51:29.682537 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:51:29.686526 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:51:59.030957 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:51:59.037975 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:00.202504 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:00.207855 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:07.840251 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:07.846779 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:08.709846 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:08.714858 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:10.838210 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:10.844193 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:27.351073 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:27.356061 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:28.204060 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:28.211042 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:35.176293 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:35.182336 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:41.578472 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:41.582461 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:52:42.389726 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:52:42.396707 ERROR: a Sessao de listarFuncionarios falhou ao carregar o banco de dados!
+2020-09-02 13:53:01.655528 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:53:07.742798 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 13:53:11.164532 INFO: Entrou na tela de edição do 2 - Cláudio Fernando 
+2020-09-02 13:53:17.502007 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 13:59:07.167791 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 13:59:44.791736 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 13:59:48.108095 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 13:59:48.129040 INFO: O usuário Alexandre foi alterado!
+2020-09-02 13:59:48.176555 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 14:05:06.557134 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 14:05:15.532977 INFO: se deslogou do Sistema.
+2020-09-02 14:05:17.337048 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 14:07:40.363203 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 14:17:26.271950 INFO: Entrou na tela de edição do 2 - Cláudio Fernando 
+2020-09-02 14:17:27.912084 INFO: Entrou na tela de edição do 2 - Cláudio Fernando 
+2020-09-02 14:17:27.916104 INFO: O usuário Cláudio foi alterado!
+2020-09-02 14:17:27.969165 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 14:21:27.970079 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 14:21:43.016017 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 14:34:56.615905 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 15:11:52.678027 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 15:11:55.591295 INFO: visitou a sessao de adicionar Funcinário
+2020-09-02 15:12:10.664672 INFO: visitou a sessao de adicionar Funcinário
+2020-09-02 15:12:10.677637 INFO: adicionou um usuario chamado: Thiago Pereira
+2020-09-02 15:12:10.728292 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 15:12:14.458058 INFO: Entrou na tela de edição do 3 - Thiago Pereira 
+2020-09-02 15:12:23.658390 INFO: Entrou na tela de edição do 3 - Thiago Pereira 
+2020-09-02 15:12:23.662380 INFO: O usuário Thiago foi alterado!
+2020-09-02 15:12:23.704698 INFO: visitou a sessao de ListarFuncionario
+2020-09-02 15:40:31.536435 INFO: Entrou na tela de edição do 3 - Thiago Matos 
+2020-09-02 15:54:54.449761 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-02 17:09:41.280716 INFO: visitou a sessao de ListarFuncionario

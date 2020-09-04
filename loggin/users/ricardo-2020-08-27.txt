@@ -1,0 +1,4 @@
+2020-08-27 10:16:57.889192 INFO: visitou a sessao de ListarFuncionario
+2020-08-27 10:25:27.985996 INFO: se deslogou do Sistema.
+2020-08-27 10:25:39.126823 INFO: visitou a sessao de ListarFuncionario
+2020-08-27 10:36:35.756257 INFO: Entrou na tela de edição do 6 - Fernando Matos 

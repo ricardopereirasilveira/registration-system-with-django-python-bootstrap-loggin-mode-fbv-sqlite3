@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adicionar Funcionário</title>
+</head>
+<body>
+    <form method="POST" enctype="multipart/form-data">
+        {%csrf_token%}
+        {{form.as_p}}
+        <br>
+        <button type="submit">Salvar</button><br>
+        <button type="reset">Resetar</button>
+    </form>
+    <br>
+    <a href="{% url 'listFunc' %}">Voltar para lista de funcionários!</a>
+
+</body>
+</html>
