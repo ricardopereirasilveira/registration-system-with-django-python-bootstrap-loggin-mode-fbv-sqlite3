@@ -1,0 +1,7 @@
+/funcionarios/migrations/*
+/home/migrations/*
+/loggin/*users
+/media/*
+/projectA
+/venv
+db.sqlite3

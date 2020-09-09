@@ -29,14 +29,22 @@ def adicionarFuncionario(request):
 
 
 # TODO: Inserir a busca por clientes por campo nome & sobrenome
+#       pois atualmente ele está buscando por itens isoladamente
 @login_required
 def listarFuncionario(request):
+    busca = request.GET.get('busca', None)
     saudacao = funcs.saudacao()
     user = request.user.username
     try:
-        infoLOG.imprimirINFO(f'{datetime.now()}', user,
-                             f'visitou a sessao de ListarFuncionario')
-        func = Funcionario.objects.all()
+        if busca:
+            infoLOG.imprimirINFO(f'{datetime.now()}', user,
+                                 f'Buscou por: "{busca}" em ListarFuncionario')
+            func = Funcionario.objects.all()
+            func = func.filter(primeiroNome__icontains=busca)
+        else:
+            infoLOG.imprimirINFO(f'{datetime.now()}', user,
+                                 f'visitou a sessao de ListarFuncionario')
+            func = Funcionario.objects.all()
         return render(request, 'listarfuncionario.html', {'func': func, 'saudacao': saudacao})
     except Exception as e:
         infoLOG.imprimirERROR(f'{datetime.now()}',
@@ -62,7 +70,7 @@ def editarFuncionario(request, id):
             return redirect('listFunc')
         except Exception as e:
             pass
-    return render(request, 'adicionarfuncionario.html', {'form': form})
+    return render(request, 'editarfuncionario.html', {'form': form, 'func':func})
 
 
 # TODO: Inserir a página bootstrap personalizada

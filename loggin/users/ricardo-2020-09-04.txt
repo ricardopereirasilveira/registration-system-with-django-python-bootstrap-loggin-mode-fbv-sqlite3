@@ -1,1 +1,50 @@
 2020-09-04 09:42:38.881425 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:00:35.672072 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:00:51.713736 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:01:45.651232 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:03:04.667901 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:03:39.671531 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:04:14.583833 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:04:21.778320 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:07:54.153804 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:08:28.024811 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:08:30.375569 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:11:46.270927 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:12:42.704638 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:13:06.945215 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:20:40.929566 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:20:47.037590 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:20:47.037590 INFO: Buscou por: Alexandre
+2020-09-04 10:21:27.930376 INFO: Buscou por: Alexandre em ListarFuncionario
+2020-09-04 10:22:16.338317 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:22:23.170804 INFO: Buscou por: Mixing em ListarFuncionario
+2020-09-04 10:22:48.929480 INFO: Buscou por: "Alexandre" em ListarFuncionario
+2020-09-04 10:24:26.022081 INFO: Buscou por: "Mixing" em ListarFuncionario
+2020-09-04 10:24:30.323300 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:24:36.933791 INFO: Buscou por: "Alexandre Matos" em ListarFuncionario
+2020-09-04 10:25:43.332395 INFO: Buscou por: "Alexandre Matos" em ListarFuncionario
+2020-09-04 10:28:43.018707 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:28:46.334145 INFO: Buscou por: "Thiago Matos" em ListarFuncionario
+2020-09-04 10:42:19.139537 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:42:26.303201 INFO: Buscou por: "Cláudio Fernando" em ListarFuncionario
+2020-09-04 10:42:28.033812 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:42:30.843509 INFO: Buscou por: "Cláudio" em ListarFuncionario
+2020-09-04 10:43:02.420242 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 10:43:07.222711 INFO: Buscou por: "Alexandre Matos" em ListarFuncionario
+2020-09-04 10:43:16.700438 INFO: Buscou por: "Alexandre" em ListarFuncionario
+2020-09-04 10:43:35.321415 INFO: Buscou por: "Ale" em ListarFuncionario
+2020-09-04 11:41:28.661527 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 11:41:32.151760 INFO: Entrou na tela de edição do 1 - Alexandre Mixing 
+2020-09-04 11:41:37.702844 INFO: Buscou por: "Alexandre" em ListarFuncionario
+2020-09-04 11:45:02.325845 INFO: Buscou por: "Alexandre" em ListarFuncionario
+2020-09-04 12:48:28.572717 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 12:48:31.612691 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 12:48:35.541979 INFO: Buscou por: "thiago" em ListarFuncionario
+2020-09-04 12:48:36.705848 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 14:00:36.631214 INFO: Buscou por: "Alexandre" em ListarFuncionario
+2020-09-04 14:00:41.184398 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 14:00:44.971776 INFO: Buscou por: "Claudio" em ListarFuncionario
+2020-09-04 14:00:46.344952 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 15:35:23.329751 INFO: se deslogou do Sistema.
+2020-09-04 15:35:29.906419 INFO: visitou a sessao de ListarFuncionario
+2020-09-04 16:24:59.514798 INFO: Buscou por: "alexandre" em ListarFuncionario
