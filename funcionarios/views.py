@@ -11,7 +11,7 @@ from . import funcs
 
 infoLOG = log.LogginMIX()
 
-# TODO: Inserir a página bootstrap personalizada
+
 @login_required
 def adicionarFuncionario(request):
     user = request.user.username
@@ -53,7 +53,6 @@ def listarFuncionario(request):
         return render(request, 'listarfuncionario.html', {'func': func, 'saudacao': saudacao})
 
 
-# TODO: Inserir a página bootstrap personalizada.
 @login_required
 def editarFuncionario(request, id):
     user = request.user.username

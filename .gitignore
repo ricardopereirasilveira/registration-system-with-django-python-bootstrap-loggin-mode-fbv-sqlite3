@@ -1,7 +1,10 @@
-/funcionarios/migrations/*
-/home/migrations/*
-/loggin/*users
-/media/*
-/projectA
-/venv
-db.sqlite3
+/funcionarios/migrations/*.py
+/home/migrations/*.py
+/loggin/users/*.txt
+/media/*.jpg
+*/projectA
+*/venv
+*.db.sqlite3
+*.idea
+*.env
+*.DS_STORE
