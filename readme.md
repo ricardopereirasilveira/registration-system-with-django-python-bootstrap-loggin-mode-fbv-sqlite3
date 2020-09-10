@@ -16,11 +16,12 @@
 - Delete person from SQLite3;
 
 ***Log System**:
-- The logs register the activity of user each day, separated by files '_username-YYYY-MM-DD.txt_'
+- The logs register the activity of user each user/day, separated by files '_username-YYYY-MM-DD.txt_'
 - With the log system, you can manage the time and what user does;
-- The Log System has every action of user, ven if he doesn't confirm the action
-- All files will be generated in folder (_/loggin/user/nameOfUser.txt_)
+- The Log System has every action of user, even if he doesn't confirm the action
+- All files will be generated in folder (_/loggin/user/HERE.txt_)
 - You have 2 types of Log (Info and Error), both are generated automatilly.
+- If you have any error in your System, you can check it on user information;
 
 **Thanks to:**
 - https://www.djangoproject.com/ - for providing the Django Framework 
@@ -34,5 +35,8 @@
 **How to setup the System in your computer**
 - Clone the project to your computer
 - with VENV enabled, run the command `pip install -r requirements-dev.txt`
+- Create a file '.env' in your root directory of project, and set the `SECRET_KEY=` and the `DEBUG=`
 - Run the server `python manage.py runserver`
 - Open your favorite browser and type the URL - http://localhost:8080 or http://127.0.0.1:8080
+- Create a superuser with the command `python manage.py createsuperuser`
+- Use the user created to login in System.
