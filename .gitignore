@@ -2,9 +2,9 @@
 /home/migrations/*.py
 /loggin/users/*.txt
 /media/*.jpg
-*/projectA
-*/venv
+/projectA
+/venv
 *.db.sqlite3
 *.idea
 *.env
-*.DS_STORE
+*.DS_Store

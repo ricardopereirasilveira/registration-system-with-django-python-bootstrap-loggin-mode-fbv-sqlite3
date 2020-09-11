@@ -1,4 +1,5 @@
 from datetime import datetime
+from builtwith import builtwith
 
 
 def saudacao():
@@ -14,3 +15,7 @@ def saudacao():
             return 'Boa noite'
     except:
         return 'Olá'
+
+
+
+print(builtwith('http://127.0.0.1:8000/'))
